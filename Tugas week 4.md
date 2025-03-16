@@ -56,23 +56,6 @@ Teknologi ini menjadi solusi ideal dalam pengembangan perangkat lunak modern sep
 
 ---
 
-## Flowchart: Proses dari Komputer Dinyalakan hingga Dimatikan
-
-```mermaid
-graph TD;
-    A[Power On] --> B[BIOS/UEFI Initialization];
-    B --> C[POST (Power-On Self Test)];
-    C --> D[Load Bootloader];
-    D --> E[Load Operating System];
-    E --> F[User Authentication];
-    F --> G[User Session];
-    G --> H[User Runs Applications];
-    H --> I[Shutdown Initiated];
-    I --> J[Close Applications & Services];
-    J --> K[OS Shutdown Process];
-    K --> L[Power Off];
-```
-
 
 
 **Tugas Week 4 Sistem Operasi - Selesai** ✅
